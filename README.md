@@ -4,7 +4,7 @@
 
 ## 📦 Installation
 
-1. Download the file
+1. Download the `.vsix` file
 
 2. Open Visual Code -> Extensions (Ctrl+Shift+X) -> More actions (...)
 
